@@ -2,6 +2,8 @@
 
 Presentación guiada para la clase de Estrategia Empresarial. El archivo principal es `index.html`; se abre en el navegador y no necesita instalación.
 
+**[Abrir la presentación interactiva](https://silviotif89.github.io/uam-estrategia-empresarial-s14-gestion-crisis/)**
+
 ## Controles
 
 - **← / →**: cambiar diapositiva.
